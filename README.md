@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there!👋
+I'm from Poland🇵🇱 and I'm computer science enthusiast currently working on earning computer science engineer degree at Nicolaus Copernicus University in Torun. 
 
-<!--
-**bwisniewski26/bwisniewski26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Few words about me
 
-Here are some ideas to get you started:
+- 🎮 retro games enjoyer
+- 🧑‍💻 Apple user
+- 💻currently in process of discovering capabilities of Swift and SwiftUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Need a way to contact me?
+- Discord: _wisnia
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwisniewski26&layout=compact)](https://github.com/bwisniewski26)
