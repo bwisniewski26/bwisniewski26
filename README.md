@@ -10,4 +10,4 @@ I'm from Poland🇵🇱 and I'm computer science enthusiast currently working on
 ### Need a way to contact me?
 - Discord: _wisnia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwisniewski26&layout=compact)](https://github.com/bwisniewski26)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwisniewski26)](https://github.com/bwisniewski26)
